@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="view_content_offset">10dip</dimen>
+    <dimen name="lbl1_size">15sp</dimen>
+    <dimen name="text_size">10sp</dimen>
+</resources>
